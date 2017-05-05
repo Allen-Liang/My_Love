@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Allen-Liang/mypage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Allen-Liang/mypage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#《 一生所爱》
+###演唱：卢冠庭
+[点击听听](http://music.163.com/#/song?id=32785700 "卖假货的学长推荐，点了不后悔，哈哈！")
+![](http://ent.taiwan.cn/list/201410/W020141027541431598861.jpgf)
+![](http://i0.hdslb.com/bfs/archive/84d49fbb7fec2432f99ebef8bbaecc3a6381471d.jpg)
+![](http://i10.hoopchina.com.cn/hupuapp/bbs/539/26186539/thread_26186539_20161031202829_s_72757_o_h_530px_w_960px1717662048.png)
+![](http://imgcache.cjmx.com/film/201511/20151110100857969.jpg)
+![](http://wx4.sinaimg.cn/mw690/0064Tnx0ly1ff4wod984nj31kw16onpe.jpg)
+从前现在过去了再不来
+红红落叶长埋尘土内
+开始终结总是没变改
+天边的你飘泊白云外
+苦海翻起爱恨
+在世间难逃避命运
+相亲竟不可接近
+或我应该相信是缘份
+情人别后永远再不来(消散的情缘)
+无言独坐放眼尘世外(愿来日再续)
+鲜花虽会凋谢(只愿)
+但会再开(为你)
+一生所爱隐约(守候)
+在白云外(期待)
+苦海翻起爱恨
+在世间难逃避命运
+相亲竟不可接近
+或我应该相信是缘份
+苦海翻起爱恨
+在世间难逃避命运
+相亲竟不可接近
+或我应该相信是缘份
