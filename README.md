@@ -48,3 +48,4 @@
 在世间难逃避命运<br>
 相亲竟不可接近<br>
 或我应该相信是缘份<br>
+![](https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/3ac79f3df8dcd1002f28ea02758b4710b9122f58.jpg)
